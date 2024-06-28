@@ -1,0 +1,1 @@
+jdbc:mysql://szuflandia.pjwstk.edu.pl:3306/s27151
